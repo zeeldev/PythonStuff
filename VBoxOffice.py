@@ -10,6 +10,7 @@ box_list = [('It',60.00)
     ,('American Assassin', 14.8)
     ,('Mother!',7.5)
     ,('Home Alone', 65.3)
+    ,('Star Wars IV', 75.5)
 ]
 
 idxl = 10 #left justify
